@@ -8,8 +8,7 @@
 - 🔭 I’m currently working on [FlexRes](https://github.com/sueyxz/FlexRes)
 
 - ⚡ Fun fact **im not gay.**
-
-<h3 align="left">Connect with me:</h3>
+  
 <p align="left">
 </p>
 
